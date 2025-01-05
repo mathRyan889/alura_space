@@ -11,7 +11,7 @@ SQLite: Banco de dados utilizado por padrão no Django.
 Estrutura do Projeto
 
 /galeria/: Contém os modelos, views e URLs para o gerenciamento de imagens.
-/static/: Arquivos estáticos, como imagens e arquivos CSS.
+/static/: Arquivos estáticos, como imagens e arquivos CSS e Js.
 /templates/: Templates para renderização das páginas HTML.
 
 Modelos
